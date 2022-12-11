@@ -2,7 +2,7 @@
 
 - 🎓 Bachelor's from Graphic Era Deemed to Be University 
 - 🔬 Focus on Optimization of DeepLearning Models
-- 💻 Doing Machine Learning From previous 2 years 
+- 💻 Doing Machine Learning From 2 years 
 - <img width="13.75" src="linux.png" /> Experienced with Machine Learning Algorithms  and Optimization of Neural Network
 - 💬 Speak English,Hindi,Learning Japenese
 - 💜 Like Python, JavaScript , React , C++, MLOPs, 
@@ -28,6 +28,6 @@
 
 **Machine Learning**
 
-- [Churn Prediction](https://github.com/shiv2398/Telecom-Customer-Churn-prediction): Churn Prediction 
+- [Churn Prediction](https://github.com/shiv2398/Telecom-Customer-Churn-prediction): Churn Prediction[end to end] 
 - [Customer Segmentation](https://github.com/shiv2398/CustomerSegmentation/tree/master): Customer Segmentation
-- [Price Prediction](https://github.com/shiv2398/car_prediction_-end_to_end-_deployment): Car Price Prediction
+- [Price Prediction](https://github.com/shiv2398/car_prediction_-end_to_end-_deployment): Car Price Prediction[end to end]
