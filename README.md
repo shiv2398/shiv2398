@@ -1,4 +1,4 @@
-### Hello, I am Ayaka 👋🏻
+### Hello, I am Sahitya Arya 👋🏻
 
 - 🎓 Bachelor's from Graphic Era Deemed to Be University 
 - 🔬 Focus on Optimization of DeepLearning Models
