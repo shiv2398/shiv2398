@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sahitya Arya</h1>
-<h3 align="center">A passionate  Machine Learning/Deep Learning Engineer from India</h3>
+### Hello, I am Ayaka 👋🏻
 
-- 🔭 I’m currently working on **Freeform Text Generation for Content Creator**
+- 🎓 Bachelor's from Graphic Era Deemed to Be University 
+- 🔬 Focus on Optimization of DeepLearning Models
+- 💻 Doing Machine Learning From previous 2 years 
+- <img width="13.75" src="linux.png" /> Experienced with Machine Learning Algorithms  and Optimization of Neural Network
+- 💬 Speak English,Hindi,Learning Japenese
+- 💜 Like Python, JavaScript , React , C++, MLOPs, 
 
-- 🌱 I’m currently learning **Graph Neural Networks**
+### Research Project
+- [Disease Detection](https://github.com/CS-savvy/Transformer-for-Parkinsons-disease): Detection of Parkinson disease by Modified Transformer
+- [Optimization](https://github.com/shiv2398/Convex_optimization): Optimization of Neural Network
+### Featured Projects
 
-- 👯 I’m looking to collaborate **Research**
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
+**Natural Language Processing**
 
-- 📫 How to reach me **sahityahavi111@gmail.com**
+- [Transliteration](https://github.com/shiv2398/transliteration_english_to_hindi): Transliteration of English word into Hindi
+- [Text Generation(End-to_End)](https://github.com/shiv2398/Auto_text_Generation): Auto Text-Generation Application
+- [Language Detection](https://github.com/shiv2398/Language-prediction-by-given-word-using-RNN-custom_data-): Language Prediction by given words
+- [Sentiment Analysis](https://github.com/shiv2398/Twitter_Sentiment_Analysis): Twitter Sentiment Analysis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shiv_sahitya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_sahitya" height="30" width="40" /></a>
-</p>
+**Computer Vision**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- [Object Detection](https://github.com/shiv2398/shiv2398-Detection-of-Emotion-Gender-age-in-surveillence-Monito): Emotoion,Gender, Age Detection Application 
+- [Object Detection](https://github.com/shiv2398/London_underground_sign_detection-using-YOLOv7): Londen UnderGround Sign Detection using YoloV7
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/happy to help"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="happy to help" /></a></p><br><br>
+
+**Machine Learning**
+
+- [Churn Prediction](https://github.com/shiv2398/Telecom-Customer-Churn-prediction): Churn Prediction 
+- [Customer Segmentation](https://github.com/shiv2398/CustomerSegmentation/tree/master): Customer Segmentation
+- [Price Prediction](https://github.com/shiv2398/car_prediction_-end_to_end-_deployment): Car Price Prediction
