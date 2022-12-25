@@ -15,6 +15,7 @@
 
 **Natural Language Processing**
 
+- [Text Classification](https://huggingface.co/spaces/Sahitya/Analysis/tree/main): Sentiment Analysis using Bert
 - [Transliteration](https://github.com/shiv2398/transliteration_english_to_hindi): Transliteration of English word into Hindi
 - [Text Generation(End-to_End)](https://github.com/shiv2398/Auto_text_Generation): Auto Text-Generation Application
 - [Language Detection](https://github.com/shiv2398/Language-prediction-by-given-word-using-RNN-custom_data-): Language Prediction by given words
