@@ -10,6 +10,7 @@
 ### Research Project
 - [Disease Detection](https://github.com/CS-savvy/Transformer-for-Parkinsons-disease): Detection of Parkinson disease by Modified Transformer
 - [Optimization](https://github.com/shiv2398/Convex_optimization): Optimization of Neural Network
+- [Threat Detection in Surveillance Camera](https://github.com/shiv2398/Threat_detection_using-Deep_learning)
 ### Featured Projects
 
 
@@ -22,8 +23,8 @@
 - [Sentiment Analysis](https://github.com/shiv2398/Twitter_Sentiment_Analysis): Twitter Sentiment Analysis
 
 **Computer Vision**
--['Threat Detection in Surveillance Camera](https://github.com/shiv2398/Threat_detection_using-Deep_learning)
 
+- [Threat Detection in Surveillance Camera](https://github.com/shiv2398/Threat_detection_using-Deep_learning)
 - [Image Classification and Recognition](https://github.com/shiv2398/You-Only-Look-10): A computer vision based system.
 - [Object Detection](https://github.com/shiv2398/shiv2398-Detection-of-Emotion-Gender-age-in-surveillence-Monito): Emotoion,Gender, Age Detection Application 
 - [Object Detection](https://github.com/shiv2398/London_underground_sign_detection-using-YOLOv7): Londen UnderGround Sign Detection using YoloV7
