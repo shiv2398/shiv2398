@@ -8,9 +8,11 @@
 - 💜 Like Python, JavaScript , React , C++, MLOPs, 
 
 ### Research Project
+
 - [Disease Detection](https://github.com/CS-savvy/Transformer-for-Parkinsons-disease): Detection of Parkinson disease by Modified Transformer
 - [Optimization](https://github.com/shiv2398/Convex_optimization): Optimization of Neural Network
 - [Threat Detection in Surveillance Camera](https://github.com/shiv2398/Threat_detection_using-Deep_learning):Weapon Detection in CCTV
+- [Alzeimer Disease Detection using DeepLearning ](https://github.com/shiv2398/Alzeimer_disease_detection):Detection of Alzeimer Disease using Deep Learning
 ### Featured Projects
 
 
