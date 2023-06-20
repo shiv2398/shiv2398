@@ -28,7 +28,7 @@
 - [Human Body Measurements using Deep Learning ](https://github.com/shiv2398/Body_measurments_using_Pose-Detection): Human Body measurements  from an image. 
 - [Threat Detection in Surveillance Camera](https://github.com/shiv2398/Threat_detection_using-Deep_learning):Weapon Detection in CCTV 
 - [Image Classification and Recognition](https://github.com/shiv2398/You-Only-Look-10): A computer vision based system.
-- [Object Detection](https://github.com/shiv2398/shiv2398-Detection-of-Emotion-Gender-age-in-surveillence-Monito): Emotoion,Gender, Age Detection Application 
+- [Object Detection](https://github.com/shiv2398/shiv2398-Detection-of-Emotion-Gender-age-in-surveillence-Monito): Emotion,Gender, Age Detection Application 
 - [Object Detection](https://github.com/shiv2398/London_underground_sign_detection-using-YOLOv7): Londen UnderGround Sign Detection using YoloV7
 
 
