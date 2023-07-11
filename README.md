@@ -33,7 +33,9 @@
 
 
 **Machine Learning**
-
+- [Hiring  Application](https://github.com/shiv2398/Hiring_application): Resume filtration[end to end ]
 - [Churn Prediction](https://github.com/shiv2398/Telecom-Customer-Churn-prediction): Churn Prediction[end to end] 
 - [Customer Segmentation](https://github.com/shiv2398/CustomerSegmentation/tree/master): Customer Segmentation
 - [Price Prediction](https://github.com/shiv2398/car_prediction_-end_to_end-_deployment): Car Price Prediction[end to end]
+
+
