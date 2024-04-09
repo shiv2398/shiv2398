@@ -1,10 +1,10 @@
 ### Hello, I'm Sahitya Arya! 👋🏻
 
-🎓 Bachelor's from Graphic Era Deemed to Be University
+🎓 Data Scientist 
 
 🔬 Passionate about Optimizing Deep Learning Models
 
-💻 2 years into the exciting world of Machine Learning
+💻 3 years into the exciting world of Artificial Intelligence
 
 <img width="13.75" src="linux.png" /> Experienced with Machine Learning Algorithms and Neural Network Optimization
 
